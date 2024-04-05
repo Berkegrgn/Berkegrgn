@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berke Girgin</h1>
+<h1 align="center">Hi 👋, I'm Berke Kaan Girgin</h1>
 <h3 align="center">A passionate UI/UX designer and Front-End developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Python-Django**
