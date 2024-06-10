@@ -62,7 +62,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkegrgn&background=1abc9c&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="404"/>
       </td>
       <td class="center-cell">
-        <img src="pc.jpg" width="1500" height="480"/>
+        <img src="pc.jpg" width="1500" height="485"/>
       </td>
     </tr>
   </table>
