@@ -59,7 +59,7 @@
       <td class="center-cell">
         <img src="https://github-readme-stats.vercel.app/api?username=Berkegrgn&show_icons=true&theme=default&bg_color=30,1abc9c,9b59b6&title_color=fff&text_color=fff" width="404"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkegrgn&layout=compact&theme=default&bg_color=30,1abc9c,9b59b6&title_color=fff&text_color=fff" width="404"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkegrgn&background=1abc9c&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="404"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkegrgn&background=9f86c0&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="404"/>
       </td>
       <td class="center-cell">
         <img src="pc.jpg" width="1500" height="489"/>
